@@ -10,9 +10,7 @@
 
 ## Contact
 
-<a herf="https://www.linkedin.com/in/l%C3%A1zaro-bonfim-872709210/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsszdHSi4TJCLKx%2FO7wzfUg%3D%3D">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align = "center" heigth="50" width="60" >
+<a herf="https://www.linkedin.com/in/l%C3%A1zaro-bonfim-872709210/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsszdHSi4TJCLKx%2FO7wzfUg%3D%3D"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align = "center" heigth="50" width="60" >
 </a>
 
 ## Languages
