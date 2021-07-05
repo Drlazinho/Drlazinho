@@ -4,9 +4,9 @@
 #### I'm studying front-end and back-end technologies
 ----- 
 
-<img height="200em" src= "https://github-readme-stats.vercel.app/api?username=Drlazinho&show_icons=true&theme=tokyonight" >
+<img height="150em" src= "https://github-readme-stats.vercel.app/api?username=Drlazinho&show_icons=true&theme=tokyonight" >
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" >
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" >
 
 ## Contact
 
