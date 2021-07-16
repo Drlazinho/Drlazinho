@@ -3,7 +3,7 @@
 ### Hi there 👋
  <p align = "left">
     I'm Lázaro Pimentel, I'm 24 years old I'm from Brazil. <br>
-    I'm studying front-end, back-end and others technologies <br> 
+    I'm studying front-end, back-end and others technologies 
     like Kotlin for Android Studio.
     <br>
     <br>
