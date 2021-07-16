@@ -1,4 +1,4 @@
-<img height="200em" src= "https://github-readme-stats.vercel.app/api?username=Drlazinho&show_icons=true&theme=tokyonight" align = "right">
+<img height="190em" src= "https://github-readme-stats.vercel.app/api?username=Drlazinho&show_icons=true&theme=tokyonight" align = "right">
 
 ### Hi there 👋
  <p align = "left">
@@ -33,7 +33,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" align = "center" heigth="50" width="60">   
 </div>
     <p> </p>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drlazinho&layout=compact">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drlazinho&layout=compact">
 
 
 
