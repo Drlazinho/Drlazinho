@@ -33,11 +33,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" align = "center" heigth="50" width="60">   
 </div>
     <p> </p>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drlazinho&layout=compact">
 
 
 
 <!--
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drlazinho&layout=compact">
+
 **Drlazinho/Drlazinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
