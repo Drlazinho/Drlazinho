@@ -6,6 +6,8 @@
     I'm studying <strong>front-end, back-end</strong> and others technologies 
     like <strong>Kotlin for Android Studio Mobile</strong>.
     <br>
+ <br>Currently focused on Android Mobile Development and
+Improving Front End Skills<br>
     <br>
 </p> 
 
