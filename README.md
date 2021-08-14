@@ -3,8 +3,7 @@
 ### Hi there 👋
  <p align = "left">
     I'm <strong>Lázaro Pimentel</strong>, I'm 24 years old I'm from Brazil. <br>
-    I'm studying <strong>front-end, back-end</strong> and others technologies 
-    like <strong>Kotlin for Android Studio Mobile</strong>.
+    I'm studying <strong>front-end and Developer Mobile</strong> 
     <br>
  <br>Currently focused on Android Mobile Development and
 Improving Front End Skills<br>
