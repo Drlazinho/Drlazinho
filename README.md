@@ -34,6 +34,7 @@ Improving Front End Skills<br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" align = "center" heigth="50" width="60">   
 </div>
 
+<hr>
 <table>
  <tr><th colspan="4">Developed Application</th></tr>
     <td align="center">
