@@ -55,7 +55,7 @@ Improving Front End Skills<br>
     </td>
    <td align="center">
       <a href="https://github.com/Drlazinho/ToDoList_Kotlin">
-        <img src="https://media.giphy.com/media/lFeZaeCBss4WZdAqMT/giphy.gif"/><br>
+        <img src="https://media.giphy.com/media/q1K7O4JxHKb4mm7Qky/giphy.gif?cid=790b7611c892a256b0efbb4e87fa7ef60859bab8f16661e2&rid=giphy.gif&ct=g"/><br>
         <sub>
           <b>To do List</b>
         </sub>
