@@ -36,7 +36,7 @@ Improving Front End Skills<br>
 
 <hr>
 <table>
- <tr><th colspan="4">Developed Application</th></tr>
+ <tr><th colspan="4">Developed Application - Language Kotlin</th></tr>
     <td align="center">
       <a href="https://github.com/Drlazinho/CoinConverter">
         <img src="https://media.giphy.com/media/iw3lmP1LPrYDuLxKuI/giphy.gif?cid=790b7611b293b6b8edfad8cc83189d6d2616db41affd44a2&rid=giphy.gif&ct=g"/><br>
