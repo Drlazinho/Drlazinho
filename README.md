@@ -34,63 +34,6 @@ Improving Front End Skills<br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" align = "center" heigth="50" width="60">   
 </div>
 
-<hr>
-<table>
- <tr><th colspan="4">Developed Application - Language Kotlin</th></tr>
-    <td align="center">
-      <a href="https://github.com/Drlazinho/CoinConverter">
-        <img src="https://media.giphy.com/media/iw3lmP1LPrYDuLxKuI/giphy.gif?cid=790b7611b293b6b8edfad8cc83189d6d2616db41affd44a2&rid=giphy.gif&ct=g"/><br>
-        <sub>
-          <b>CoinConverter</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Drlazinho/AppRepositoryGit">
-        <img src="https://media.giphy.com/media/SOqocd5Zg3wkLjo7Ak/giphy.gif"/><br>
-        <sub>
-          <b>AppRepositoryGit</b>
-        </sub>
-      </a><br>
-    </td>
-   <td align="center">
-      <a href="https://github.com/Drlazinho/ToDoList_Kotlin">
-        <img src="https://media.giphy.com/media/q1K7O4JxHKb4mm7Qky/giphy.gif?cid=790b7611c892a256b0efbb4e87fa7ef60859bab8f16661e2&rid=giphy.gif&ct=g"/><br>
-        <sub>
-          <b>To do List</b>
-        </sub>
-      </a><br>
-    </td>
-  </tr>
-  <tr></tr>
-    <td align="center">
-      <a href="https://github.com/Drlazinho/BusinessCard_Kotlin">
-        <img src="https://media.giphy.com/media/w8c3EiEozwiAN9AG4W/giphy.gif"/><br>
-        <sub>
-          <b>BusinessCard</b>
-        </sub>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Drlazinho/TipTime">
-        <img src="https://media.giphy.com/media/gWWdcncsiXt5DHwdcW/giphy.gif""/><br>
-        <sub>
-          <b>TipTime</b>
-        </sub>
-      </a><br>
-    </td>
-   <td align="center">
-      <a href="https://github.com/Drlazinho/TipTime">
-        <img src="https://media.giphy.com/media/jHAG4G4sV0z6BkjsbQ/giphy.gif"/><br>
-        <sub>
-          <b>TipTime - Dark Mode</b>
-        </sub>
-      </a><br>
-    </td>
-  </tr>
-</table>
-
-
 <!--
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drlazinho&layout=compact">
 
