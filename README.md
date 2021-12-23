@@ -5,9 +5,6 @@
     I'm <strong>Lázaro Pimentel</strong>, I'm 24 years old I'm from Brazil. <br>
     I'm studying <strong>front-end and Developer Mobile</strong> 
     <br>
- <br>Currently focused on Android Mobile Development and
-Improving Front End Skills<br>
-    <br>
 </p> 
 
 <p align="left">
