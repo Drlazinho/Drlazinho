@@ -32,6 +32,81 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align = "center" heigth="50" width="60">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" align = "center" heigth="50" width="60">
 </div>
+<h2>🚀 Projects  (Fast Search)</h2>
+<table>
+ <th>Projects Name</th>
+ <th>Technologies/Languages/Concepts</th>
+ <tr>
+  <td><a href="https://cvlazaropimentel-drlazinho.netlify.app/" target="_blank">My CV - Portfólio</a></td>
+  <td>
+   <li>HTML5 / CSS3</li>
+  </td>    
+ </tr>
+ <tr>
+  <td><a href="https://edumeta.netlify.app/" target="_blank">Site edumeta</a></td>
+  <td>
+   <li>HTML5 /  CSS3 / Javascript ES6</li>
+   <li>SASS</li>
+   <li>Swiper.js</li>
+   <li>Responsive Design</li>
+   <li>SEO</li>
+  </td>    
+ </tr>
+ <tr>
+ <td><a href="https://makeburger.netlify.app/" target="_blank">Site Make Burguer</a></td>
+  <td>
+   <li>HTML5 /  CSS3 / Javascript ES6</li>
+   <li>Vue.js</li>
+   <li>Vue Router</li>
+      <li>API</li>
+
+  </td>    
+ </tr>
+ <tr>
+ <td><a href="https://gymfitbody.netlify.app/" target="_blank">Site beFitness</a></td>
+  <td>
+   <li>HTML5 /  CSS3 / Javascript ES6</li>
+   <li>SASS</li>
+   <li>Swiper.js</li>
+   <li>Responsive Design</li>
+  </td>    
+ </tr>
+ <tr>
+ <td><a href="https://drlazinho-beatysalon.netlify.app/" target="_blank">Site beatysalon</a></td>
+  <td>
+   <li>HTML5 /  CSS3 / Javascript ES6</li>
+   <li>Swiper.js</li>
+   <li>Responsive Design</li>
+  </td>    
+ </tr>
+  <tr>
+ <td><a href="#" target="_blank">Project Budget (Developing)</a></td>
+  <td>
+   <li>HTML5 /  CSS3 / Javascript ES6</li>
+   <li>React / Hooks / Router </li>
+   <li>Styled-Components</li>
+   <li>Responsive Design</li>
+   <li>...</li>
+  </td>    
+ </tr>
+ <tr>
+ <td><a href="https://leagueflix.netlify.app/" target="_blank">Leagueflix - Netflix League of Legends</a></td>
+  <td>
+   <li>HTML5 /  CSS3 / Javascript ES6</li>
+   <li>jQuery</li>
+  </td>    
+ </tr>
+<tr>
+ <td><a href="https://github.com/Drlazinho/Clinics-Search" target="_blank">Search Clinic</a></td>
+  <td>
+   <li>HTML5 /  CSS3 / Javascript ES6</li>
+   <li>Reactjs / Hooks / Redux / Icon</li>
+   <li>Styled-Components</li>
+   <li>API</li>
+  </td>    
+ </tr>
+</table>
+
 
 <!--
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drlazinho&layout=compact">
