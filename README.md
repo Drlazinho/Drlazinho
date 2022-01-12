@@ -45,7 +45,7 @@
  <tr>
   <td><a href="https://edumeta.netlify.app/" target="_blank">Site edumeta</a></td>
   <td>
-   <li>HTML5 /  CSS3 / Javascript ES6</li>
+   <li>HTML5 /  CSS3 / Javascript </li>
    <li>SASS</li>
    <li>Swiper.js</li>
    <li>Responsive Design</li>
@@ -55,7 +55,7 @@
  <tr>
  <td><a href="https://makeburger.netlify.app/" target="_blank">Site Make Burguer</a></td>
   <td>
-   <li>HTML5 /  CSS3 / Javascript ES6</li>
+   <li>HTML5 /  CSS3 / Javascript </li>
    <li>Vue.js</li>
    <li>Vue Router</li>
       <li>API</li>
@@ -65,7 +65,7 @@
  <tr>
  <td><a href="https://gymfitbody.netlify.app/" target="_blank">Site beFitness</a></td>
   <td>
-   <li>HTML5 /  CSS3 / Javascript ES6</li>
+   <li>HTML5 /  CSS3 / Javascript </li>
    <li>SASS</li>
    <li>Swiper.js</li>
    <li>Responsive Design</li>
@@ -74,7 +74,7 @@
  <tr>
  <td><a href="https://drlazinho-beatysalon.netlify.app/" target="_blank">Site beatysalon</a></td>
   <td>
-   <li>HTML5 /  CSS3 / Javascript ES6</li>
+   <li>HTML5 /  CSS3 / Javascript </li>
    <li>Swiper.js</li>
    <li>Responsive Design</li>
   </td>    
@@ -82,7 +82,7 @@
   <tr>
  <td><a href="#" target="_blank">Project Budget (Developing)</a></td>
   <td>
-   <li>HTML5 /  CSS3 / Javascript ES6</li>
+   <li>HTML5 /  CSS3 / Javascript</li>
    <li>React / Hooks / Router </li>
    <li>Styled-Components</li>
    <li>Responsive Design</li>
@@ -92,14 +92,14 @@
  <tr>
  <td><a href="https://leagueflix.netlify.app/" target="_blank">Leagueflix - Netflix League of Legends</a></td>
   <td>
-   <li>HTML5 /  CSS3 / Javascript ES6</li>
+   <li>HTML5 /  CSS3 / Javascript</li>
    <li>jQuery</li>
   </td>    
  </tr>
 <tr>
  <td><a href="https://github.com/Drlazinho/Clinics-Search" target="_blank">Search Clinic</a></td>
   <td>
-   <li>HTML5 /  CSS3 / Javascript ES6</li>
+   <li>HTML5 /  CSS3 / Javascript</li>
    <li>Reactjs / Hooks / Redux / Icon</li>
    <li>Styled-Components</li>
    <li>API</li>
