@@ -47,12 +47,16 @@
  <th>Technologies/Languages/Concepts</th>
  <tr>
   <td><a href="https://cvlazaropimentel-drlazinho.netlify.app/" target="_blank">My CV - Portfólio</a></td>
+    <br><a href="https://github.com/Drlazinho/CV-responsivo" target="_blank">Repository</a>
+
   <td>
    <li>HTML5 / CSS3</li>
   </td>    
  </tr>
  <tr>
   <td><a href="https://edumeta.netlify.app/" target="_blank">Site edumeta</a></td>
+    <br><a href="https://github.com/Drlazinho/eduMeta" target="_blank">Repository</a>
+
   <td>
    <li>HTML5 /  CSS3 / Javascript </li>
    <li>SASS</li>
@@ -63,6 +67,8 @@
  </tr>
  <tr>
  <td><a href="https://makeburger.netlify.app/" target="_blank">Site Make Burguer</a></td>
+ <br><a href="https://github.com/Drlazinho/Crie_o_seu_Hamburguer" target="_blank">Repository</a>
+
   <td>
    <li>HTML5 /  CSS3 / Javascript </li>
    <li>Vue.js</li>
@@ -73,6 +79,7 @@
  </tr>
  <tr>
  <td><a href="https://gymfitbody.netlify.app/" target="_blank">Site beFitness</a></td>
+  <br><a href="https://github.com/Drlazinho/Site-Academia-Responsiva" target="_blank">Repository</a>
   <td>
    <li>HTML5 /  CSS3 / Javascript </li>
    <li>SASS</li>
@@ -81,7 +88,9 @@
   </td>    
  </tr>
  <tr>
- <td><a href="https://drlazinho-beatysalon.netlify.app/" target="_blank">Site beatysalon</a></td>
+ <td><a href="https://drlazinho-beatysalon.netlify.app/" target="_blank">Site beatysalon</a>
+  <br><a href="https://github.com/Drlazinho/Site-Salao-de-Beleza" target="_blank">Repository</a>
+  </td>
   <td>
    <li>HTML5 /  CSS3 / Javascript </li>
    <li>Swiper.js</li>
@@ -100,6 +109,7 @@
  </tr>
  <tr>
  <td><a href="https://leagueflix.netlify.app/" target="_blank">Leagueflix - Netflix League of Legends</a></td>
+    <br><a href="https://github.com/Drlazinho/LEAGUEFLIX" target="_blank">Repository</a>
   <td>
    <li>HTML5 /  CSS3 / Javascript</li>
    <li>jQuery</li>
