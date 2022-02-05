@@ -1,11 +1,16 @@
-<img height="190em" src= "https://github-readme-stats.vercel.app/api?username=Drlazinho&show_icons=true&theme=tokyonight" align = "right">
 
 ### Hi there 👋
+
+<div>
  <p align = "left">
+  <img height="170em" src= "https://github-readme-stats.vercel.app/api?username=Drlazinho&show_icons=true&theme=tokyonight" align = "right">
     I'm <strong>Lázaro Pimentel</strong>, I'm 24 years old I'm from Brazil. <br>
     I'm <strong>Developer front-end</strong> moving towards <strong>Fullstack</strong>, I have knowledge in Developer Mobile using Kotlin. I have daily practice with new technologies and in trends with the market, always looking to improve as a professional and as a person. I learn from mistakes, I accept criticism from those who want my best. 
     <br>
 </p> 
+ 
+</div>
+
 
 <p align="left">
         
@@ -40,6 +45,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align = "center" heigth="50" width="60">
  
 </div>
+
+## Codes
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drlazinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
