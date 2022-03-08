@@ -35,15 +35,15 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" align = "center" heigth="50" width="60">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" align = "center" heigth="50" width="60">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" align = "center" heigth="50" width="60">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align = "center" heigth="50" width="60">
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align = "center" heigth="50" width="60"> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align = "center" heigth="50" width="60">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" align = "center" heigth="50" width="60">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" align = "center" heigth="50" width="60">
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" align = "center" heigth="50" width="60"> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" align = "center" heigth="50" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" align = "center" heigth="50" width="60"/>
-     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" align = "center" heigth="50" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align = "center" heigth="50" width="60">
- 
+<!--      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" align = "center" heigth="50" width="60"/> -->
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align = "center" heigth="50" width="60">
+  -->
 </div>
 
 ## Codes
