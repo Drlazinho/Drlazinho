@@ -50,9 +50,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drlazinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-profile-trophy.vercel.app/?username=Drlazinho&row=2&column=3&theme=matrix">
+
 ## Resume
 
 <a href="https://cvlazaropimentel-drlazinho.netlify.app/">My resume</a>
+
 
 <!--
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drlazinho&layout=compact">
