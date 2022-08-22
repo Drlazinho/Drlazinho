@@ -4,8 +4,8 @@
 <div>
  <p align = "left">
   <img height="170em" src= "https://github-readme-stats.vercel.app/api?username=Drlazinho&show_icons=true&theme=tokyonight" align = "right">
-    I'm <strong>Lázaro Pimentel</strong>, I'm 24 years old I'm from Brazil. <br>
-    I'm <strong>Developer front-end</strong> moving towards <strong>Fullstack</strong>, I have knowledge in Developer Mobile using Kotlin. I have daily practice with new technologies and in trends with the market, always looking to improve as a professional and as a person. I learn from mistakes, I accept criticism from those who want my best. 
+    I'm <strong>Lázaro Pimentel</strong>, I'm 25 years old I'm from Brazil. <br>
+    I'm <strong>Developer front-end React</strong>, I have knowledge in Developer Mobile using Kotlin. I have daily practice with new technologies and in trends with the market, always looking to improve as a professional and as a person. I learn from mistakes, I accept criticism from those who want my best. 
     <br>
 </p> 
  
@@ -39,7 +39,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align = "center" heigth="50" width="60">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" align = "center" heigth="50" width="60">
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" align = "center" heigth="50" width="60"> -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" align = "center" heigth="50" width="60"/>
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" align = "center" heigth="50" width="60"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" align = "center" heigth="50" width="60"/>
 <!--      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" align = "center" heigth="50" width="60"/> -->
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align = "center" heigth="50" width="60">
