@@ -50,6 +50,34 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drlazinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Projets Frontend
+
+<a href="https://how2sec.com.br/">how2sec - SPA in React</a>
+
+<a href="https://plantoes.nextlevel.app.br/login">NextLevel - Landing Page with Login in Nextjs</a>
+
+<a href="https://calculadora-gama-academy.vercel.app/">Calculator - Javascript</a><a href="https://github.com/Drlazinho/Calculadora-GamaAcademy"> (More Details...)</a>
+
+<a href="http://nakonta.online/">Nakonta Online - Landing Page</a>
+
+<a href="https://edumeta.netlify.app/">Edumeta - Landing Page</a>
+
+<a href="https://drlazinho-beatysalon.netlify.app/">beatysalon - Landing Page</a>
+
+<a href="https://leagueflix.netlify.app/">Leagueflix - Clone NETFLIX</a>
+
+<a href="https://github.com/Drlazinho/gallery">Gallery-Photos App React</a>
+
+<a href="https://dazzling-liskov-a5336a.netlify.app/">Site de Arquitetura de Imóveis - Bootstrap</a>
+
+<a href="https://github.com/Drlazinho/mjml-newsletter-filantropo">Newsletter Filantropo -  Template HTML para email</a>
+
+<a href="https://github.com/Drlazinho/email-nakonta">Email Marketing Nakonta -  Template HTML para email</a>
+
+## Projets React-Native
+
+<a href="https://github.com/Drlazinho/rockethelp/">Rockethelp App</a>
+
 
 ## Resume
 
