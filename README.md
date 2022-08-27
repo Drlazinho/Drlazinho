@@ -46,10 +46,10 @@
   -->
 </div>
 
-## Codes
+<!-- ## Codes
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drlazinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 ## Projets Frontend
 
 <a href="https://how2sec.com.br/">how2sec - SPA in React</a>
