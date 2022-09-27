@@ -52,6 +52,8 @@
 -->
 ## Projets Frontend
 
+<a href="https://github.com/Drlazinho/ignite-timer">Ignite-timer - App React-Typescript</a>
+
 <a href="https://how2sec.com.br/">how2sec - SPA in React</a>
 
 <a href="https://plantoes.nextlevel.app.br/login">NextLevel - Landing Page with Login in Nextjs</a>
@@ -78,11 +80,15 @@
 
 <a href="https://github.com/Drlazinho/rockethelp/">Rockethelp App</a>
 
+## Projets Blockchain
+
+<a href="http://nakonta.online/">Nakonta Online - Landing Page</a>
+
 
 ## Resume
 
-<a href="https://cvlazaropimentel-drlazinho.netlify.app/">My resume</a>
-
+<a href="https://github.com/AldaMenezes/projeto_final#hardhat">CriptoSpace NFT - Versão 1.0
+</a>
 
 <!--
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drlazinho&layout=compact">
