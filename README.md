@@ -82,7 +82,8 @@
 
 ## Projets Blockchain
 
-<a href="http://nakonta.online/">Nakonta Online - Landing Page</a>
+<a href="https://github.com/AldaMenezes/projeto_final#hardhat">CriptoSpace NFT - Versão 1.0
+</a>
 
 
 ## Resume
