@@ -56,7 +56,7 @@
 
 <a href="https://github.com/Drlazinho/ignite-timer">Ignite-timer - App React-Typescript</a>
 
-<a href="https://github.com/Drlazinho/best-moments">best-moments - App React-Typescript</a>
+<a href="https://github.com/Drlazinho/best-moments">best-moments - App Angular-Typescript</a>
 
 <a href="https://github.com/Drlazinho/react-design-system">App Login - React Design System</a>
 
