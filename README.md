@@ -2,10 +2,16 @@
 ### Hi there 👋
 
 <div>
+ <h2 align="center">My New Portfolio 2025 - Em Dev</h2>
+ <p><a href="https://lazarodevsalvador.netlify.app/">Link to Portfolio</a>></p>
+</div>
+
+
+<div>
  <p align = "left">
   <img height="170em" src= "https://github-readme-stats.vercel.app/api?username=Drlazinho&show_icons=true&theme=tokyonight" align = "right">
-    I'm <strong>Lázaro Pimentel</strong>, I'm 25 years old I'm from Brazil. <br>
-    I'm <strong>Developer front-end React</strong> with Typescript and frameworks, I have knowledge in Developer Mobile using ReactNative, Blockchain Developer with ethereum. I have daily practice with new technologies and in trends with the market, always looking to improve as a professional and as a person. I learn from mistakes, I accept criticism from those who want my best. 
+    I'm <strong>Lázaro Pimentel</strong>, I'm 27 years old I'm from Brazil. <br>
+    I'm <strong>Developer front-end React</strong> with Typescript and frameworks, I have knowledge in Developer Mobile using ReactNative. I have daily practice with new technologies and in trends with the market, always looking to improve as a professional and as a person. 
     <br>
 </p> 
  
