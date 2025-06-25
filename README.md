@@ -6,18 +6,6 @@
  <p><a href="https://lazarodevsalvador.netlify.app/">Link to Portfolio</a>></p>
 </div>
 
-
-<div>
- <p align = "left">
-  <img height="170em" src= "https://github-readme-stats.vercel.app/api?username=Drlazinho&show_icons=true&theme=tokyonight" align = "right">
-    I'm <strong>Lázaro Pimentel</strong>, I'm 27 years old I'm from Brazil. <br>
-    I'm <strong>Developer front-end React</strong> with Typescript and frameworks, I have knowledge in Developer Mobile using ReactNative. I have daily practice with new technologies and in trends with the market, always looking to improve as a professional and as a person. 
-    <br>
-</p> 
- 
-</div>
-
-
 <p align="left">
         
   <a href="mailto: lazbonfim@hotmail.com" target="_blank" alt="Gmail">
@@ -32,24 +20,18 @@
   <a href="tel: +55 71 992938275" target="_blank" alt="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>  
-<h2>🚀 Languages and Skills </h2>
+<h2>🚀 Main Languages and Skills </h2>
 <div>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align = "center" heigth="50" width="60">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align = "center" heigth="50" width="60">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align = "center" heigth="50" width="60">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align = "center" heigth="50" width="60">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align = "center" heigth="50" width="60">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" align = "center" heigth="50" width="60">
  <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" align = "center" heigth="50" width="60"> -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" align = "center" heigth="50" width="60">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align = "center" heigth="50" width="60">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" align = "center" heigth="50" width="60">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" align = "center" heigth="50" width="60">
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" align = "center" heigth="50" width="60"> -->
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" align = "center" heigth="50" width="60"/> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" align = "center" heigth="50" width="60"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" align = "center" heigth="50" width="60"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" align = "center" heigth="50" width="60"/>
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" align = "center" heigth="50" width="60"/>
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" align = "center" heigth="50" width="60">
   -->
 </div>
