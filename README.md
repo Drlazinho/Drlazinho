@@ -5,9 +5,9 @@
 # Hi there, I'm Lázaro Pimentel 👋 
 
 <div align="center">
-  <a href="https://lazarodevsalvador.netlify.app/" target="_blank">
+  <!-- <a href="https://lazarodevsalvador.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Meu%20Portfólio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/lazarobonfim/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
