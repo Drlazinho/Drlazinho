@@ -18,11 +18,13 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drlazinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" align="right">
   
-  I'm a **Specialist Front-end Developer** based in Brazil. My core expertise lies in the **React ecosystem (Next.js, TypeScript)**, where I build high-performance applications with a focus on **SEO** and scalability.
+  I'm a **Full Stack Developer** with **5+ years of experience** based in Brazil, specializing in building scalable web systems, high-performance interfaces, and AI-powered solutions.
   
-  With a **Fullstack MBA background**, I have a comprehensive understanding of the development lifecycle, including **Node.js** and **Nest.js**, **React** and **Next**, and mobile development with **React Native**. I also have professional experience with **Vue** and **Angular**.
+  On the frontend, my core stack revolves around **React, Next.js, Angular, and TypeScript**, crafting accessible, SEO-optimized, and resilient architectures. On the backend, I design robust services and RESTful APIs using **Node.js, C# (.NET), and Python**, alongside hands-on experience integrating **LLMs and modern AI APIs**.
   
-  🚀 Constant learner, always staying ahead of market trends.
+  With a **Fullstack MBA background**, I bring an end-to-end product vision across the entire development lifecycle, agile delivery, and modern cloud ecosystems.
+  
+  🚀 Building smart, scalable software and exploring generative AI integrations.
 </div>
 
 <br />
@@ -30,6 +32,7 @@
 ### 🎓 Education & Certifications
 * 🏆 **MBA Fullstack Development** (Lato Sensu) - Sirius Educação
 * 🎓 **AWS Educate:** Getting Started with Storage - Training Badge
+* 🏆 **Introduction to Cybersecurity** - CISCO
 
 <br />
 
